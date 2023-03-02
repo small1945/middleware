@@ -1,0 +1,23 @@
+-- insert into student values('100','liao','man','1990-1-1','95033');
+-- insert into student values('101','lilao','man','1990-1-1','95035');
+-- insert into student values('102','lijun','man','1990-1-1','95037');
+-- insert into student values('103','lifan','man','1990-1-1','95031');
+-- insert into student values('104','lihoo','man','1990-1-1','95031');
+-- insert into student values('105','lihao','man','1990-1-1','95035');
+-- insert into student values('106','lichen','man','1990-1-1','95036');
+-- insert into student values('107','liyan','man','1990-1-1','95037');
+-- insert into student values('108','chen','man','1990-1-1','95038');
+insert into student values('165','caihua','woman','1990-1-1','95038');
+insert into student values('156','caihua','woman','1990-1-1','95038');
+insert into student values('145','caifa','woman','1990-1-1','95038');
+insert into student values('185','cailan','woman','1990-1-1','95031');
+insert into student values('418','cai','woman','1990-1-1','95032');
+insert into student values('318','cai','woman','1990-1-1','95033');
+insert into student values('218','cai','woman','1990-1-1','95034');
+insert into student values('178','cai','woman','1990-1-1','95037');
+insert into student values('112','cai','woman','1990-1-1','95038');
+insert into student values('158','cai','woman','1990-1-1','95038');
+insert into student values('148','cai','woman','1990-1-1','95038');
+insert into student values('138','cai','woman','1990-1-1','95038');
+insert into student values('119','cai','woman','1990-1-1','95038');
+

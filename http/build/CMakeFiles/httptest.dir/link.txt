@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11 -Wall -pthread  -rdynamic CMakeFiles/httptest.dir/test/test.cpp.o CMakeFiles/httptest.dir/src/CHttpcontext.cpp.o CMakeFiles/httptest.dir/src/CHttprequest.cpp.o CMakeFiles/httptest.dir/src/CHttpserver.cpp.o CMakeFiles/httptest.dir/src/CHttpresponse.cpp.o  -o httptest 

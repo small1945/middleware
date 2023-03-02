@@ -1,0 +1,3 @@
+/home/gc/Desktop/middleware/mysqlware/build/CMakeFiles/rebuild_cache.dir
+/home/gc/Desktop/middleware/mysqlware/build/CMakeFiles/sqlpooltest.dir
+/home/gc/Desktop/middleware/mysqlware/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/yangzhimin/mytest/middleware/build/CMakeFiles/rebuild_cache.dir
+/home/yangzhimin/mytest/middleware/build/CMakeFiles/TimerTest.out.dir
+/home/yangzhimin/mytest/middleware/build/CMakeFiles/edit_cache.dir

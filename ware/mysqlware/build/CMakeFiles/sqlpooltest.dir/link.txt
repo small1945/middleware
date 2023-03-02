@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11 -Wall -pthread -lmysqlclient  -rdynamic CMakeFiles/sqlpooltest.dir/src/CMysqlpool.cpp.o CMakeFiles/sqlpooltest.dir/src/CMysqlconn.cpp.o CMakeFiles/sqlpooltest.dir/src/CMysqlrecordset.cpp.o CMakeFiles/sqlpooltest.dir/test/test.cpp.o  -o sqlpooltest -lmysqlclient 
